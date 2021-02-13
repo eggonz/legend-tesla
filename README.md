@@ -1,2 +1,2 @@
 # legend-tesla
-The Legend of Tesla - Fangame
+The Legend of Tesla - game
